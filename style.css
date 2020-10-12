@@ -295,3 +295,10 @@ margin-top: 20px;
   width:100%;
   padding: 10px;
 }
+
+/* media query */
+@media screen and (max-width: 890px){
+.content-menu ul li a{
+  display: none;
+}
+}
