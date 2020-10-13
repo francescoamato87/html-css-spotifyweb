@@ -61,7 +61,7 @@ body{
 }
 
 .sidebar-top{
-  background-color: #cccccc;
+  background-color: #252525;
   flex-grow:1;/* si prende di nuovo il resto dello spazio disponibile */
 }
 
@@ -107,7 +107,7 @@ body{
 
 .content{
   position:relative; /* per relazionare i posizionamenti al suo interno */
-  background: #444;
+  background: #252525;
   flex-grow: 1; /* che grazie a questa proprietà e valore si prende il resto dello spazio disponibile */
 }
 
@@ -219,7 +219,7 @@ counter-reset: white;
 /* Player */
 
 .player{
-  background: #000;
+  background: #252525;
   display: flex;
   justify-content: space-between; /* quest'ultimo aggiunto alla fine per dare proporzione
   ai tre div */
